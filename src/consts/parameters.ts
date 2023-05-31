@@ -7,7 +7,7 @@ export const contractConst = "0xfF08C4885dd2644A4e24CD6DFA983bf2F4982E49";
 // The name of the chain your contract is deployed to.
 // Provide a string for standard chains, or import one from @thirdweb-dev/chains package.
 // Learn more: https://portal.thirdweb.com/react/react.thirdwebprovider#activechain-recommended
-export const chainConst = "PulsechainTestnetV4";
+export const chainConst = "mumbai";
 
 // Configure the primary color for buttons and other UI elements
 export const primaryColorConst = "white";
